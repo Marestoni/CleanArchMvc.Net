@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {}
+    "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArcMvcDotNet\\CleanArchMvc.Net\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
+    "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArcMvcDotNet\\CleanArchMvc.Net\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "projectUniqueName": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArcMvcDotNet\\CleanArchMvc.Net\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
         "projectName": "CleanArchMvc.Application",
-        "projectPath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "projectPath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArcMvcDotNet\\CleanArchMvc.Net\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
         "packagesPath": "C:\\Users\\andre.marestoni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArchMvc\\CleanArchMvc.Application\\obj\\",
+        "outputPath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArcMvcDotNet\\CleanArchMvc.Net\\CleanArchMvc.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre.marestoni\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArcMvcDotNet\\CleanArchMvc.Net\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArcMvcDotNet\\CleanArchMvc.Net\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+    "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArcMvcDotNet\\CleanArchMvc.Net\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArcMvcDotNet\\CleanArchMvc.Net\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "projectName": "CleanArchMvc.Domain",
-        "projectPath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectPath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArcMvcDotNet\\CleanArchMvc.Net\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "packagesPath": "C:\\Users\\andre.marestoni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArchMvc\\CleanArchMvc.Domain\\obj\\",
+        "outputPath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArcMvcDotNet\\CleanArchMvc.Net\\CleanArchMvc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre.marestoni\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sSvpb19C5WfVk1IdFGWvBaEu6OuBsLnymmHbnbYOy4HjTLaKUPNX1gM7tJiKs57wQxwmc/qoPns0usyrmHXhMg==",
+  "dgSpecHash": "GuXXtgVZsKUTRorjeAcT3/zNEyQ6nDP18ddK+tdMWn9Bs7csSB6CwdCRC+Uyr3XVWw954K5BMMgoAbiwGmCxsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "projectFilePath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArcMvcDotNet\\CleanArchMvc.Net\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

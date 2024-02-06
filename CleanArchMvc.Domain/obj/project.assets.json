@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArcMvcDotNet\\CleanArchMvc.Net\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
       "projectName": "CleanArchMvc.Domain",
-      "projectPath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+      "projectPath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArcMvcDotNet\\CleanArchMvc.Net\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
       "packagesPath": "C:\\Users\\andre.marestoni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArchMvc\\CleanArchMvc.Domain\\obj\\",
+      "outputPath": "C:\\Users\\andre.marestoni\\Documents\\Blink\\Curso\\CleanArcMvcDotNet\\CleanArchMvc.Net\\CleanArchMvc.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre.marestoni\\AppData\\Roaming\\NuGet\\NuGet.Config",

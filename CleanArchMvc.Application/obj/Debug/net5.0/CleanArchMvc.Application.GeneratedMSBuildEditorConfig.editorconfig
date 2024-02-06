@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CleanArchMvc.Application
-build_property.ProjectDir = C:\Users\andre.marestoni\Documents\Blink\Curso\CleanArchMvc\CleanArchMvc.Application\
+build_property.ProjectDir = C:\Users\andre.marestoni\Documents\Blink\Curso\CleanArcMvcDotNet\CleanArchMvc.Net\CleanArchMvc.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
